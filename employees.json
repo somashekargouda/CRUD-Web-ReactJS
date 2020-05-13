@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "name": "sunil",
+      "username": "suni",
+      "email": "s@gmail.com",
+      "phone": "23467",
+      "id": 3
+    },
+    {
+      "name": "somashekar gouda",
+      "username": "soma",
+      "email": "s@gmail.com",
+      "phone": "8884281419",
+      "id": 8
+    },
+    {
+      "name": "nandu",
+      "username": "u",
+      "email": "n@gmail.com",
+      "phone": "8789878987",
+      "id": 12
+    }
+  ]
+}
